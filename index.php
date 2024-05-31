@@ -18,7 +18,7 @@
     <title>APLIKASI PERPUSTAKAAN</title>
 </head>
 <body>
-   <h1>APLIKASI PERPUSTAKAAN VERSI 3</h1>
+   <h1>APLIKASI PERPUSTAKAAN VERSI 10</h1>
 
     <a href="./buku.php">Lihat daftar buku</a>
     <br>
